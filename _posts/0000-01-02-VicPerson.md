@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "It always seems impossible until it’s done." -Nelson Mandela
 
 ---
 
